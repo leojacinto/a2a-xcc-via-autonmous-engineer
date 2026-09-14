@@ -1,0 +1,30 @@
+# Strategic Memo - India Talent Initiative
+
+MEMORANDUM
+TO: All Department Heads, Finance Leadership FROM: Shirley Ross, Chief Human Resources Officer DATE: March 20, 2025 RE: India Talent Acquisition Initiative - Budget Supplemental Approval
+Executive Summary
+Effective immediately, HR-IN-RC (Human Resources - Recruitment - India) is authorized to exceed
+baseline FY2025 budget allocations to support accelerated hiring across our India operations.
+Strategic Context
+Our Q1 2025 business review identified India as a critical growth market for R&D and clinical operations
+expansion. Current headcount constraints are limiting our ability to execute on committed timelines for
+three major programs:
+Biotechnology research expansion (RD-CA-01 collaboration with India-based partners)
+Clinical trial capacity increase for APAC markets
+Digital transformation initiatives requiring specialized technical talent
+Budget Impact
+Baseline Budget (FY2025): $780,000 Approved Supplemental: $85,000 (10.9% increase) Total Authorized Spend: $865,000
+This supplemental funding will be allocated to:
+Premium recruitment platform subscriptions (LinkedIn Recruiter, Naukri Premium)
+Specialized headhunter services for hard-to-fill technical roles
+Enhanced candidate assessment tools and background verification
+Campus recruitment program expansion
+Execution Timeline
+
+Q2 2025: Focus on senior technical roles and research scientists
+Q3 2025: Clinical operations staff and project managers Q4 2025: Administrative support and operational roles
+Financial Governance
+Monthly variance reports will be submitted to the CFO office. Any additional funding beyond the
+approved supplemental will require executive committee approval.
+The formal budget amendment for FY2026 will incorporate these increases into the baseline allocation.
+Approved by: Executive Committee Meeting Date: March 10, 2025 Document Location: SharePoint/Executive/Strategic Initiatives/2025/HR

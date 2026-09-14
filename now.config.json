@@ -1,0 +1,11 @@
+{
+    "scope": "x_snc_a2a_lf",
+    "scopeId": "19be743947d78750037d0fadf26d4335",
+    "name": "a2a lf",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "licensing": {
+        "enforceLicense": "none"
+    },
+    "description": "[BUILD AGENT GENERATED]:  A2A - LF",
+    "ideCreated": "IDE"
+}

@@ -1,0 +1,33 @@
+# Strategic Memo - International Sales Expansion
+
+MEMORANDUM
+TO: Sales Leadership, Regional VPs, Finance FROM: Ben Siteeo, SVP Global Sales DATE: January 25, 2025 RE: International Market Expansion - SALES-US-IN Budget Adjustment
+Strategic Investment Authorization
+SALES-US-IN (Sales - International - USA) is approved to exceed baseline budget by up to $90,000
+(6.3%) to accelerate market entry into LATAM and Southeast Asia regions.
+Market Opportunity
+Our 2024 market assessment identified underserved segments in Brazil, Mexico, Singapore, and
+Thailand with combined TAM of $260M. Competitors are establishing presence in Q1-Q2 2025.
+Current budget constraints limit our ability to:
+Deploy adequate sales coverage in target regions
+Establish local partnerships and distribution channels
+Execute market entry campaigns at the required scale
+Waiting until FY2026 budget cycle risks losing first-mover positioning to three identified competitors
+already active in these markets.
+Investment Allocation
+Baseline Budget (FY2025): $1,420,000 Approved Supplemental: $90,000 (6.3% increase) Total Authorized Spend: $1,510,000
+Funding will support:
+Regional sales team expansion (4 additional territories)
+Enhanced travel budget for client prospecting and partner meetings
+CRM platform expansion (Salesforce regional licenses)
+
+Market intelligence and competitive analysis (ZoomInfo, local research firms)
+Localized sales collateral and demo materials
+Milestones and Accountability
+Q1: Establish partnerships in 2 target markets Q2: First customer wins in each region (minimum 3 customers) Q3: $450K pipeline development Q4: $250K closed revenue
+Failure to achieve Q2 milestones will trigger spending review and potential reallocation.
+Financial Controls
+Bi-weekly spending reviews with Sales Finance. All regional partnerships require VP approval. Travel
+exceeding $5K per trip requires CFO sign-off.
+Regional P&L ownership transfers to local VPs effective Q3 2025.
+Approved by: CEO, CFO, Executive Committee Meeting Date: January 15, 2025 Document Location: SharePoint/Executive/Strategic Initiatives/2025/Sales
